@@ -1,4 +1,5 @@
 **CE-CE-CC Amplifier Design Project**
+
 This project focuses on designing a single-supply, multistage inverting amplifier using Bipolar Junction Transistors (BJTs) in a CE-CE-CC (Common Emitter-Common Emitter-Common Collector) configuration. The amplifier is optimized for specific performance requirements, including voltage gain, quiescent current, output swing, and frequency response.
 
 **Key Features:**
